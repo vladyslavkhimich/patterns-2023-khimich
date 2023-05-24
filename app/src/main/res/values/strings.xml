@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Countouch</string>
+    <string name="create_screen_top_bar">Create a counter</string>
+    <string name="content_description_create_counter">Create counter</string>
+    <string name="content_description_minus_counter">Subtract the step from counter</string>
+    <string name="content_description_plus_counter">Add the step to counter</string>
+    <string name="label_name">Name</string>
+    <string name="label_initial_value">Initial value</string>
+    <string name="label_step">Step</string>
+    <string name="label_tag">Tag</string>
+    <string name="and_add_a_tag">And add a tag</string>
+    <string name="or_select_existing_one">or select existing one</string>
+    <string name="label_create">Create</string>
+    <string name="header_your_counters">Your counters</string>
+    <string name="sort_placeholder">Sort: %s</string>
+    <string name="sorted_name_a_to_z">Name (A-Z)</string>
+    <string name="sorted_name_z_to_a">Name (Z-A)</string>
+    <string name="sorted_creation_date_newest">Creation date (newest)</string>
+    <string name="sorted_creation_date_oldest">Creation date (oldest)</string>
+    <string name="empty_counter_list_placeholder">You don\'t have counters, tap + to create one</string>
+</resources>
